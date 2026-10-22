@@ -36,7 +36,7 @@ App de pacientes con citas, historias clínicas y laboratorios en PDF, grupo fam
 `Swift` `SwiftUI` `UIKit` `MVVM` `Kotlin` `Firebase` `REST`
 
 **PROMOCAJITA: Promos y Cupones** — *iOS* · [Ver en App Store](https://apps.apple.com/co/app/promocajita-promos-y-cupones/id6759547401)  
-App de ofertas, descuentos y cupones para Colombia, con comunidad de usuarios, puntos, notificaciones y favoritos. Desarrollé la versión iOS.
+App de ofertas, descuentos y cupones para Colombia, con comunidad de usuarios, puntos, notificaciones y favoritos. Desarrollé la versión iOS, que ya supera los **4.000 usuarios**.
 
 `Swift` `REST`
 
