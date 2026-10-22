@@ -70,4 +70,6 @@ App sin conexión para registrar con hora exacta el flujo de vehículos y person
 
 ### 📫 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/adrian-felipe-polo-gomez-569906ba) · adrianfpg14@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/adrian-felipe-polo-gomez-569906ba)
+- ✉️ [adrianfpg14@gmail.com](mailto:adrianfpg14@gmail.com)
+- 📱 +57 324 298 6222 · [WhatsApp](https://wa.me/573242986222)
