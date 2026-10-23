@@ -2,7 +2,7 @@
 
 Desarrollador **Mobile y Full Stack** en Riohacha, Colombia. Hago apps nativas para iOS (Swift) y Android (Kotlin), frontends con React y Next.js, y backends con Node.js, Laravel y Django.
 
-Hoy trabajo en **IPS Medigroup**, donde soy responsable de la app iOS de pacientes y desarrollo sistemas internos en tiempo real y automatizaciones.
+Hoy trabajo en **IPS Medigroup** como ingeniero de sistemas y desarrollador: soy responsable de la app iOS de pacientes, desarrollo sistemas internos en tiempo real, automatizaciones y módulos del HIS, y administro la infraestructura TI de sus 3 sedes (servidores, nube, redes y copias de seguridad).
 
 ---
 
