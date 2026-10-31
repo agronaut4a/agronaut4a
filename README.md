@@ -40,7 +40,7 @@ App de ofertas, descuentos y cupones para Colombia, con comunidad de usuarios, p
 
 `Swift` `REST`
 
-**Cast · Sistema de gestión de turnos y voceo** — *Full Stack*  
+**Cast · Sistema de gestión de turnos y voceo** — *Full Stack* · [castapp.tech](https://castapp.tech) · En producción  
 Sistema a la medida para un proveedor de salud con varias sedes: fila de pacientes por servicio y prioridad, llamado en pantallas de TV con voz sintetizada, roles y permisos, y reportes. Con pruebas automatizadas de extremo a extremo.
 
 `NestJS` `Next.js` `React` `TypeORM` `MariaDB` `Socket.IO` `Google Cloud TTS`
