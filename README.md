@@ -29,47 +29,40 @@ Swift · Kotlin · React Native
 
 ### 📱 Proyectos destacados
 
-> La mayoría de estos proyectos son privados o pertenecen a las organizaciones para las que trabajo, por eso aquí solo encontrarás su descripción.
+#### 🍎 PromoCajita — App iOS
+**+4.000 usuarios** · [Ver en App Store](https://apps.apple.com/co/app/promocajita-promos-y-cupones/id6759547401)
 
-**App iOS de pacientes · IPS Medigroup** — *iOS*  
-App de pacientes con citas, historias clínicas y laboratorios en PDF, grupo familiar, planes y suscripciones y notificaciones push. Inicio de sesión con Apple, Google y teléfono. Responsable de la versión iOS, desde el desarrollo hasta la publicación en App Store.
+App de ofertas y cupones para Colombia. Desarrollé la versión iOS.
 
-`Swift` `SwiftUI` `UIKit` `MVVM` `Firebase` `REST`
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![API REST](https://img.shields.io/badge/API_REST-555555?style=flat)
 
-**PROMOCAJITA: Promos y Cupones** — *iOS* · [Ver en App Store](https://apps.apple.com/co/app/promocajita-promos-y-cupones/id6759547401)  
-App de ofertas, descuentos y cupones para Colombia, con comunidad de usuarios, puntos, notificaciones y favoritos. Desarrollé la versión iOS.
+---
 
-`Swift` `REST`
+#### 🏥 App iOS de pacientes — IPS Medigroup
+**Publicada en App Store** · Sector salud
 
-**Cast · Sistema de gestión de turnos y voceo** — *Full Stack* · [castapp.tech](https://castapp.tech) · En producción  
-Sistema a la medida para un proveedor de salud con varias sedes: fila de pacientes por servicio y prioridad, llamado en pantallas de TV con voz sintetizada, roles y permisos, y reportes. Con pruebas automatizadas de extremo a extremo. Desplegado en un VPS con Ubuntu (Hostinger), con dominio propio y protección con Cloudflare.
+Responsable de la app iOS, desde el desarrollo hasta la publicación: citas, historias clínicas, laboratorios en PDF y notificaciones push.
 
-`NestJS` `Next.js` `React` `TypeORM` `MariaDB` `Socket.IO` `Google Cloud TTS` `Ubuntu` `Cloudflare`
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white) ![MVVM](https://img.shields.io/badge/MVVM-6E40C9?style=flat) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
 
-**Sistema de gestión de activos fijos · IPS Medigroup** — *Full Stack* · Uso interno  
-Portal de propiedad, planta y equipo de la IPS: inventario, depreciación mensual bajo NIIF, mantenimiento preventivo, tickets de soporte, actas en PDF y portal móvil (PWA) con notificaciones push. Integrado con la API de SIIGO para enviar automáticamente el comprobante de depreciación y traer a diario las compras de activos fijos. Desplegado en un servidor de AWS.
+---
 
-`Next.js` `React` `TypeScript` `Prisma` `MariaDB` `Tailwind CSS` `SIIGO API` `Vitest` `AWS`
+#### 📺 Cast — Sistema de turnos y voceo
+**En producción** · [castapp.tech](https://castapp.tech)
 
-**Sistema de voceo de pacientes · IPS Medigroup** — *Full Stack*  
-Llamado de pacientes en tiempo real en las pantallas de la sala de espera, con voz de Google Cloud Text-to-Speech. Despliegue del cliente y el backend en AWS.
+Turnos y llamado por voz en pantallas de TV para un proveedor de salud con varias sedes. Lo construí y lo desplegué de punta a punta (VPS Ubuntu + Cloudflare).
 
-`Node.js` `TypeScript` `React` `Socket.IO` `AWS S3`
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
 
-**HIS institucional D-Health · IPS Medigroup** — *Full Stack*  
-Desarrollo de módulos del sistema de información hospitalaria: historias clínicas, agendas, citas, documentos clínicos e informes, con reportes en PDF y Excel y notificaciones en tiempo real. Despliegue de cambios en AWS.
+---
 
-`Laravel` `Livewire` `Alpine.js` `Bootstrap` `WebSockets` `AWS`
+**También he construido:**
 
-**Bot de radicación automática · IPS Medigroup** — *Automatización*  
-Radica cargues masivos de solicitudes en la plataforma de una aseguradora a partir de archivos Excel, con ejecución programada desde n8n.
-
-`Node.js` `Playwright` `n8n`
-
-**App Android de captura de datos de campo** — *Android*  
-App sin conexión para registrar con hora exacta el flujo de vehículos y personas en puntos de control, como insumo de un modelo de simulación.
-
-`Kotlin` `Room` `Coroutines` `Retrofit`
+- **Gestión de activos fijos** integrado con la API de SIIGO · `Next.js` `Prisma` `AWS`
+- **Voceo de pacientes en tiempo real** · `Node.js` `Socket.IO` `AWS`
+- **Módulos del HIS D-Health** · `Laravel` `Livewire`
+- **Bot de radicación automática** · `Playwright` `n8n`
+- **App Android sin conexión** para captura de datos de campo · `Kotlin` `Room`
 
 ---
 
