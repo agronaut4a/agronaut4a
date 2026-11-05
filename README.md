@@ -46,17 +46,17 @@ Sistema a la medida para un proveedor de salud con varias sedes: fila de pacient
 
 `NestJS` `Next.js` `React` `TypeORM` `MariaDB` `Socket.IO` `Google Cloud TTS` `Ubuntu` `Cloudflare`
 
-**Sistema de gestión de activos fijos · IPS Medigroup** — *Full Stack* · [activos.ipsmedigroup.com](https://activos.ipsmedigroup.com/) · Uso interno  
+**Sistema de gestión de activos fijos · IPS Medigroup** — *Full Stack* · Uso interno  
 Portal de propiedad, planta y equipo de la IPS: inventario, depreciación mensual bajo NIIF, mantenimiento preventivo, tickets de soporte, actas en PDF y portal móvil (PWA) con notificaciones push. Integrado con la API de SIIGO para enviar automáticamente el comprobante de depreciación y traer a diario las compras de activos fijos. Desplegado en un servidor de AWS.
 
 `Next.js` `React` `TypeScript` `Prisma` `MariaDB` `Tailwind CSS` `SIIGO API` `Vitest` `AWS`
 
-**Sistema de voceo de pacientes · IPS Medigroup** — *Full Stack* · [mecotv.ipsmedigroup.com](https://mecotv.ipsmedigroup.com/)  
+**Sistema de voceo de pacientes · IPS Medigroup** — *Full Stack*  
 Llamado de pacientes en tiempo real en las pantallas de la sala de espera, con voz de Google Cloud Text-to-Speech. Despliegue del cliente y el backend en AWS.
 
 `Node.js` `TypeScript` `React` `Socket.IO` `AWS S3`
 
-**HIS institucional D-Health · IPS Medigroup** — *Full Stack* · [ipsmedigroup.com/dhealth](https://www.ipsmedigroup.com/dhealth)  
+**HIS institucional D-Health · IPS Medigroup** — *Full Stack*  
 Desarrollo de módulos del sistema de información hospitalaria: historias clínicas, agendas, citas, documentos clínicos e informes, con reportes en PDF y Excel y notificaciones en tiempo real. Despliegue de cambios en AWS.
 
 `Laravel` `Livewire` `Alpine.js` `Bootstrap` `WebSockets` `AWS`
