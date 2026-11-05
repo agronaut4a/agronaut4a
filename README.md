@@ -10,7 +10,8 @@ Hoy trabajo en **IPS Medigroup** como ingeniero de sistemas y desarrollador: soy
 
 **Mobile**
 
-[![Mobile](https://skillicons.dev/icons?i=swift,kotlin,androidstudio,firebase)](https://skillicons.dev)
+[![Mobile](https://skillicons.dev/icons?i=swift,kotlin,react,androidstudio,firebase)](https://skillicons.dev)  
+Swift · Kotlin · React Native
 
 **Frontend web**
 
@@ -22,7 +23,7 @@ Hoy trabajo en **IPS Medigroup** como ingeniero de sistemas y desarrollador: soy
 
 **Infraestructura y herramientas**
 
-[![Tools](https://skillicons.dev/icons?i=docker,aws,linux,git,github,postman)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,aws,linux,ubuntu,cloudflare,git,github,postman)](https://skillicons.dev)
 
 ---
 
@@ -30,25 +31,35 @@ Hoy trabajo en **IPS Medigroup** como ingeniero de sistemas y desarrollador: soy
 
 > La mayoría de estos proyectos son privados o pertenecen a las organizaciones para las que trabajo, por eso aquí solo encontrarás su descripción.
 
-**App móvil de pacientes · IPS Medigroup** — *iOS y Android*  
-App de pacientes con citas, historias clínicas y laboratorios en PDF, grupo familiar, planes y suscripciones, notificaciones push y funciones con IA generativa (preconsulta y chat de preguntas frecuentes). Inicio de sesión con Apple, Google y teléfono.
+**App iOS de pacientes · IPS Medigroup** — *iOS*  
+App de pacientes con citas, historias clínicas y laboratorios en PDF, grupo familiar, planes y suscripciones y notificaciones push. Inicio de sesión con Apple, Google y teléfono. Responsable de la versión iOS, desde el desarrollo hasta la publicación en App Store.
 
-`Swift` `SwiftUI` `UIKit` `MVVM` `Kotlin` `Firebase` `REST`
+`Swift` `SwiftUI` `UIKit` `MVVM` `Firebase` `REST`
 
 **PROMOCAJITA: Promos y Cupones** — *iOS* · [Ver en App Store](https://apps.apple.com/co/app/promocajita-promos-y-cupones/id6759547401)  
-App de ofertas, descuentos y cupones para Colombia, con comunidad de usuarios, puntos, notificaciones y favoritos. Desarrollé la versión iOS, que ya supera los **4.000 usuarios**.
+App de ofertas, descuentos y cupones para Colombia, con comunidad de usuarios, puntos, notificaciones y favoritos. Desarrollé la versión iOS.
 
 `Swift` `REST`
 
 **Cast · Sistema de gestión de turnos y voceo** — *Full Stack* · [castapp.tech](https://castapp.tech) · En producción  
-Sistema a la medida para un proveedor de salud con varias sedes: fila de pacientes por servicio y prioridad, llamado en pantallas de TV con voz sintetizada, roles y permisos, y reportes. Con pruebas automatizadas de extremo a extremo.
+Sistema a la medida para un proveedor de salud con varias sedes: fila de pacientes por servicio y prioridad, llamado en pantallas de TV con voz sintetizada, roles y permisos, y reportes. Con pruebas automatizadas de extremo a extremo. Desplegado en un VPS con Ubuntu (Hostinger), con dominio propio y protección con Cloudflare.
 
-`NestJS` `Next.js` `React` `TypeORM` `MariaDB` `Socket.IO` `Google Cloud TTS`
+`NestJS` `Next.js` `React` `TypeORM` `MariaDB` `Socket.IO` `Google Cloud TTS` `Ubuntu` `Cloudflare`
 
-**Sistema de voceo de pacientes · IPS Medigroup** — *Full Stack*  
-Llamado de pacientes en tiempo real en las pantallas de la sala de espera, con voz de Google Cloud Text-to-Speech.
+**Sistema de gestión de activos fijos · IPS Medigroup** — *Full Stack* · [activos.ipsmedigroup.com](https://activos.ipsmedigroup.com/) · Uso interno  
+Portal de propiedad, planta y equipo de la IPS: inventario, depreciación mensual bajo NIIF, mantenimiento preventivo, tickets de soporte, actas en PDF y portal móvil (PWA) con notificaciones push. Integrado con la API de SIIGO para enviar automáticamente el comprobante de depreciación y traer a diario las compras de activos fijos. Desplegado en un servidor de AWS.
+
+`Next.js` `React` `TypeScript` `Prisma` `MariaDB` `Tailwind CSS` `SIIGO API` `Vitest` `AWS`
+
+**Sistema de voceo de pacientes · IPS Medigroup** — *Full Stack* · [mecotv.ipsmedigroup.com](https://mecotv.ipsmedigroup.com/)  
+Llamado de pacientes en tiempo real en las pantallas de la sala de espera, con voz de Google Cloud Text-to-Speech. Despliegue del cliente y el backend en AWS.
 
 `Node.js` `TypeScript` `React` `Socket.IO` `AWS S3`
+
+**HIS institucional D-Health · IPS Medigroup** — *Full Stack* · [ipsmedigroup.com/dhealth](https://www.ipsmedigroup.com/dhealth)  
+Desarrollo de módulos del sistema de información hospitalaria: historias clínicas, agendas, citas, documentos clínicos e informes, con reportes en PDF y Excel y notificaciones en tiempo real. Despliegue de cambios en AWS.
+
+`Laravel` `Livewire` `Alpine.js` `Bootstrap` `WebSockets` `AWS`
 
 **Bot de radicación automática · IPS Medigroup** — *Automatización*  
 Radica cargues masivos de solicitudes en la plataforma de una aseguradora a partir de archivos Excel, con ejecución programada desde n8n.
